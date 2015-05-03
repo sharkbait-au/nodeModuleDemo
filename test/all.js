@@ -1,7 +1,7 @@
 var	assert = require('assert'),
 	nodeModuleDemo = require('../index'),
-    escape = nodeModuleDemo.escape,
-    unescape = nodeModuleDemo.unescape;
+	escape = nodeModuleDemo.escape,
+	unescape = nodeModuleDemo.unescape;
 	
 
 describe('#escape', function() {
