@@ -1,4 +1,4 @@
-var	assert = require('assert'),
+var assert = require('assert'),
 	nodeModuleDemo = require('../index'),
 	escape = nodeModuleDemo.escape,
 	unescape = nodeModuleDemo.unescape;
