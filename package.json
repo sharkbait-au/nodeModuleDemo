@@ -1,0 +1,19 @@
+{
+  "name": "nodeModuleDemo",
+  "version": "1.0.0",
+  "description": "Just me learning to use git an' npm an' stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharkbait-au/nodeModuleDemo.git"
+  },
+  "author": "sharkbait <sharkbait.aust@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharkbait-au/nodeModuleDemo/issues"
+  },
+  "homepage": "https://github.com/sharkbait-au/nodeModuleDemo"
+}
