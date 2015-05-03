@@ -1,19 +1,22 @@
 {
   "name": "nodeModuleDemo",
+  "author": "sharkbait <sharkbait.aust@gmail.com>",
+  "license": "MIT",
   "version": "1.0.0",
   "description": "Just me learning to use git an' npm an' stuff",
+  "homepage": "https://github.com/sharkbait-au/nodeModuleDemo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tests": "mocha test/all.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/sharkbait-au/nodeModuleDemo.git"
   },
-  "author": "sharkbait <sharkbait.aust@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sharkbait-au/nodeModuleDemo/issues"
   },
-  "homepage": "https://github.com/sharkbait-au/nodeModuleDemo"
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
 }
